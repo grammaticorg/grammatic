@@ -1,6 +1,6 @@
 
 
-Christina Clayton, Corey McMillian, Shaundasia 
+Christina Clayton, Corey McMillian, Shaundasia Pinksten
 ===
 
 # Grammatic FunnyLife-Share IT
