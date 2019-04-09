@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:id="@+id/tvHandle"
+        android:layout_width="248dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/ivImage"
+        android:layout_alignLeft="@+id/ivImage"
+        android:layout_centerVertical="true"
+        android:text="Username"
+        android:textAllCaps="true" />
+
+    <ImageView
+        android:id="@+id/ivImage"
+        android:layout_width="250dp"
+        android:layout_height="232dp"
+        android:layout_alignParentTop="true"
+        tools:background="@color/backgroundLight"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="21dp"
+        android:padding="5dp"
+        app:srcCompat="@drawable/ic_launcher_foreground"
+        android:contentDescription="TODO" />
+
+    <TextView
+        android:id="@+id/tvDescription"
+        android:layout_width="248dp"
+        android:layout_height="45dp"
+        android:layout_alignStart="@+id/ivImage"
+        android:layout_alignLeft="@+id/ivImage"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="220dp"
+        android:text="The caption to the image will come here .. . .. .. .. .. . "
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimaryDark" />
+</RelativeLayout>
