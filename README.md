@@ -64,7 +64,7 @@ Christina Clayton, Corey McMillian, Shaundasia
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://github.com/grammaticorg/grammatic/blob/master/Screen%20Shot%202019-04-02%20at%2012.11.06%20PM.png" width=600>
+<img src="https://github.com/grammaticorg/grammatic/blob/master/Screen%20Shot%202019-04-09%20at%205.09.37%20PM.png" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
