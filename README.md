@@ -84,5 +84,5 @@ Christina Clayton, Corey McMillian, Shaundasia Pinksten
 <img src="https://github.com/grammaticorg/grammatic/blob/master/Screen%20Shot%202019-04-09%20at%2012.29.48%20PM.png" width=600>
     
 ### Issue Updation 
--Sprint 1 
+* Sprint 1 Assigned to Corey
 ![](https://github.com/grammaticorg/grammatic/blob/master/Login.gif)
