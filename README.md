@@ -85,4 +85,4 @@ Christina Clayton, Corey McMillian, Shaundasia Pinksten
     
 ### Issue Updation 
 * Sprint 1 Assigned to Corey
-![](https://github.com/grammaticorg/grammatic/blob/master/Login.gif)
+<img src="https://github.com/grammaticorg/grammatic/blob/master/Login.gif" width=250><br>
