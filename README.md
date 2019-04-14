@@ -83,6 +83,6 @@ Christina Clayton, Corey McMillian, Shaundasia Pinksten
   (Read/GET) Query logged in user object
 <img src="https://github.com/grammaticorg/grammatic/blob/master/Screen%20Shot%202019-04-09%20at%2012.29.48%20PM.png" width=600>
     
-### Issue Updation 
-* Sprint 1 
+### Issue Updation * Sprint 1 
+
 <img src="https://github.com/grammaticorg/grammatic/blob/master/Login.gif" width=250><br>
