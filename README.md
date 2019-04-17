@@ -86,3 +86,6 @@ Christina Clayton, Corey McMillian, Shaundasia Pinksten
 ### Issue Updation | Sprint 1 
 
 <img src="https://github.com/grammaticorg/grammatic/blob/master/Login.gif" width=250><br>
+
+
+<img src="https://github.com/grammaticorg/grammatic/blob/master/SwipeRefresh.gif" width=250><br>
